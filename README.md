@@ -35,13 +35,13 @@ ueditor 贡献代码规范（javascript）： [javascript规范](https://github.
 后续也且只开放基础功能，不包含痕迹、打印相关高级功能
 
 >标签结构
-![标签结构](https://github.com/pwcs/jwEMReditor/image/标签结构.png)
+![标签结构](https://github.com/pwcs/jwEMReditor/blob/master/image/%E6%A0%87%E7%AD%BE%E7%BB%93%E6%9E%84.png?raw=true)
 
 >默认打印
-![默认打印](https://github.com/pwcs/jwEMReditor/image/默认打印.png)
+![默认打印](https://github.com/pwcs/jwEMReditor/blob/master/image/%E9%BB%98%E8%AE%A4%E6%89%93%E5%8D%B0.gif?raw=true)
 
 >续打
-![续打](https://github.com/pwcs/jwEMReditor/image/续打.png)
+![续打](https://github.com/pwcs/jwEMReditor/blob/master/image/%E7%BB%AD%E6%89%93.gif?raw=true)
 
 ## [历史版本]
 - [x] HIS集成完成
